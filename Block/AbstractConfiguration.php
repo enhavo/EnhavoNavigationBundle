@@ -6,7 +6,7 @@
  * Time: 19:02
  */
 
-namespace Enhavo\Bundle\NavigationBundle\Item;
+namespace Enhavo\Bundle\NavigationBundle\Block;
 
 use Enhavo\Bundle\FormBundle\DynamicForm\ConfigurationInterface;
 use Enhavo\Bundle\AppBundle\Type\AbstractType;
